@@ -1,6 +1,0 @@
-运行步骤：
-1.启动虚拟机
-2.启动mqtt服务  docker run -d -p 15672:15672  -p  5672:5672 -p 1883:1883 -p 61613:61613 -p 15674:15674 -p 15675:15675 -e RABBITMQ_DEFAULT_USER=admin -e RABBITMQ_DEFAULT_PASS=admin  myrabbitmq
-3.启动java程序
-cd /home/zzz/ideaIC-2021.3.3/idea-IC-213.7172.25/bin
-./idea.sh 
