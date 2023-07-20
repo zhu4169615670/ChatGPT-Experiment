@@ -80,7 +80,7 @@ public class ChatGPT {
 
 
 
-    // main method
+    // main method  test
     public static void main(String[] args) {
         // create a ChatGPT object
         ChatGPT chat = new ChatGPT();
