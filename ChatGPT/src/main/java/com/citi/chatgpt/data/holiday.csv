@@ -1,0 +1,26 @@
+//records for countries with comma separated values for country code, country desc, holiday date and holiday name
+US, United States, 2023-01-01, New Year's Day
+US, United States, 2023-01-18, Martin Luther King Jr. Day
+US, United States, 2023-02-15, Presidents' Day
+US, United States, 2023-05-31, Memorial Day
+US, United States, 2024-07-05, Independence Day
+US, United States, 2024-09-06, Labor Day
+US, United States, 2024-10-11, Columbus Day
+US, United States, 2023-11-11, Veterans Day
+US, United States, 2024-11-25, Thanksgiving Day
+US, United States, 2024-12-24, Christmas Day
+US, United States, 2021-12-31, New Year's Day
+IN, India, 2023-01-26, Republic Day
+IN, India, 2024-08-15, Independence Day
+IN, India, 2023-10-02, Gandhi Jayanti
+IN, India, 2024-12-25, Christmas Day
+IN, India, 2023-12-31, New Year's Day
+UK, United Kingdom, 2023-01-01, New Year's Day
+UK, United Kingdom, 2024-04-02, Good Friday
+UK, United Kingdom, 2023-04-05, Easter Monday
+UK, United Kingdom, 2023-05-03, Early May bank holiday
+UK, United Kingdom, 2023-05-31, Spring bank holiday
+UK, United Kingdom, 2024-08-30, Summer bank holiday
+UK, United Kingdom, 2024-12-27, Christmas Day
+UK, United Kingdom, 2024-12-28, Boxing Day
+UK, United Kingdom, 2024-12-31, New Year's Day
